@@ -2,4 +2,10 @@
 #EXT-X-VERSION:6
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=16210139,RESOLUTION=3832x2152,CODECS="avc1.640033,mp4a.40.2",FRAME-RATE=23.974
-http://tv.startseven.tn:2052/live/09746171/15445345/200.m3u8
+https://purple-term-66e9.abdulllabasheer784.workers.dev/variant/0.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=6199092,RESOLUTION=1922x1080,CODECS="avc1.64002a,mp4a.40.2",FRAME-RATE=23.974
+https://purple-term-66e9.abdulllabasheer784.workers.dev/variant/1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3147805,RESOLUTION=1282x720,CODECS="avc1.4d4020,mp4a.40.2",FRAME-RATE=23.974
+https://purple-term-66e9.abdulllabasheer784.workers.dev/variant/2.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1316636,RESOLUTION=854x480,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=23.974
+https://purple-term-66e9.abdulllabasheer784.workers.dev/variant/3.m3u8
