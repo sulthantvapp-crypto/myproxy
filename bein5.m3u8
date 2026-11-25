@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent=VLC/3.0.20
 #EXT-X-STREAM-INF:BANDWIDTH=696000,RESOLUTION=512x288
-http://tv.startseven.tn:2052/live/09746171/15445345/200.m3u8
+https://snowy-wave-3d90.abdulllabasheer784.workers.dev/index.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.20
 #EXT-X-STREAM-INF:BANDWIDTH=1928000,RESOLUTION=704x396
-http://tv.startseven.tn:2052/live/09746171/15445345/200.m3u8
+https://snowy-wave-3d90.abdulllabasheer784.workers.dev/index.m3u8
