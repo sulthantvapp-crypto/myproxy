@@ -1,6 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-user-agent=VLC/3.0.20
 #EXT-X-STREAM-INF:BANDWIDTH=696000,RESOLUTION=512x288
 https://snowy-wave-3d90.abdulllabasheer784.workers.dev/index.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.20
